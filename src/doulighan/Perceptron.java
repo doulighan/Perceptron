@@ -6,7 +6,7 @@ import java.util.Random;
  * Resources: https://blog.dbrgn.ch/2013/3/26/perceptrons-in-python/
  * https://gist.github.com/orhandemirel/666270
  *
- * Created by Devin Oulighan on 9/23/2016.
+ * Created by Devin Oulighan on 8/23/2016.
  *
  * This algorithm is a simple linear classifier.
  * There are 3 features in the data set, x, y, z, which each correspond to values between -10 and 10.
